@@ -6,9 +6,8 @@ A brief description of your project.
 
 Include screenshots of your app here to give users a visual representation of what your project looks like. You can add screenshots by adding the image files to the project repository and referencing them here.
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+<img src="screenshots/homepage.jpg" alt="Screenshot 1" width="400">
+<img src="screenshots/changes.jpg" alt="Screenshot 2" width="400">
 
 ## Features
 
