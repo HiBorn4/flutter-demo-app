@@ -1,4 +1,4 @@
-# Project Name
+# Demo App
 
 A brief description of your project.
 
