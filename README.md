@@ -6,9 +6,10 @@ A brief description of your project.
 
 Include screenshots of your app here to give users a visual representation of what your project looks like. You can add screenshots by adding the image files to the project repository and referencing them here.
 
-<img src="screenshots/homepage.jpg" alt="Screenshot 1" width="400">
-<img src="screenshots/changes.jpg" alt="Screenshot 2" width="400">
-
+<div style="display:flex; justify-content:center;">
+  <img src="screenshots/homepage.jpg" alt="Screenshot 1" width="400" style="margin-right: 10px;">
+  <img src="screenshots/changes.jpg" alt="Screenshot 2" width="400">
+</div>
 ## Features
 
 - List the key features and functionalities of your project.
